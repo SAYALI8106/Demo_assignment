@@ -1,0 +1,42 @@
+1. What is HTML, and what is its role in web development?
+HTML (HyperText Markup Language) was created by Tim Berners-Lee in 1991 as a standard for creating web pages.
+It is a scripting language used to design static web pages.
+H- Hyper refers to the reference link.
+T- text refers to the date/information.
+M- markup refers to adding predefined tags and attributes to define elements.
+L- language refers to a system of communication or instruction understood by both humans and computers.
+Think of html as the building blocks that create the structure and look of a website, similar to how bricks and mortar are used to build a house.
+In a nutshell:
+1.HTML is the language of the web, used to create websites.
+2.HTML defines the barebone structure or layout of web pages that we see on the Internet.
+3.HTML consists of a set of tags contained within an HTML document, and the associated files typically have either a ".html" or ".htm" extension.
+
+
+2. What is web development?
+Web development refers to the process of creating, building, and maintaining websites or web applications that are accessible via the internet or an intranet. I
+Web development is like building a house on the internet. instead of bricks and mortar, we use code to create websites and web applications. Think of it as designing and putting together all the parts of a webpage, like pictures, text, buttons, and forms, so that when you visit a website, everything looks nice and works smoothly.
+
+
+3. What are the core technologies used in web development?
+ HTML, CSS, and JavaScript are the main three technologies you'll use to build a website.
+ HTML- It defines the structure and layout of web page.
+ CSS- It is used for styling the web pages.
+ JS- It adds interactivity and dynamic behaviour.
+
+4. What is CSS and what is its purpose?
+ CSS stands for Cascading Style Sheets. It is a style sheet language used to define the presentation and layout of HTML documents, including colors, fonts, spacing, and positioning of elements on a web page.
+ Its main purpose is to control how things appear on a webpage. For example, it decides what color the text should be, how big the headings are, how much space there is around images.
+ CSS helps ensure that websites look consistent and attractive across different devices, like computers, tablets, and phones. 
+
+
+ 5. What are the basic data types in JavaScrip?
+ JavaScript has 8 Datatypes
+ 1. String- Represents textual data enclosed in single quotes (') or double quotes (").
+ 2. Number- Represents numeric values, including integers and floating-point numbers. 
+ 3. Bigint-  allows you to work with really big whole numbers.
+ 4. Boolean- Represents a logical value that can be either true or false.
+ 5. Undefined- Represents a variable that has been declared but not assigned a value.
+ 6. Null - Represents an empty value or has no value.
+ 7. Symbol- Represents a unique and immutable value that may be used as the key of an object property.
+ 8. Object- Represents a collection of key-value pairs where keys are strings (or Symbols) and values can be any data type, including other objects.
+ 
